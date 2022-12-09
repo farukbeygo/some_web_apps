@@ -1,0 +1,37 @@
+body{
+  background-color:#000000;
+}
+h1{
+
+   font-family: 'SetpersetRegular';
+   font-weight: normal;
+   font-style: normal;
+   color: #FFFFFF; 
+
+   text-align: center;
+   font-size: 3.0em;
+}
+.color{
+  margin: auto;
+}
+td{
+  height: 200px;
+  width: 100px;
+  align-content: center;
+}
+
+#p1 {
+  background: 30px #5D737E;
+}
+#p2 {
+  background: 30px #64B6AC;
+}
+#p3 {
+  background: 30px #C0FDFB;
+}
+#p4 {
+  background: 30px #DAFFEF;
+}
+#p5 {
+  background: 30px #FCFFFD;
+}
