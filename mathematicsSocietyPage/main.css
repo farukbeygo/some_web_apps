@@ -1,0 +1,20 @@
+
+h1 {
+  font-family: 'TibetRegular';
+  font-weight: normal;
+  font-style: normal;
+  text-align: center;
+  color: #780000;
+  background: #FDF0D5;
+}
+p {
+  font-family: 'FifteenTwentyRegular';
+  font-weight: normal;
+  font-style: normal;
+  background: #003049;
+  text-align: center;
+  color: #FDF0D5;
+}
+body {
+  background:#669BBC;
+}
